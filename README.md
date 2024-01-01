@@ -22,11 +22,11 @@ A step by step series of examples that tell you how to get a development environ
 
 1. Clone the repository:
     ```
-    git clone https://github.com/username/projectname.git
+    git clone https://github.com/oluwaseun-Adesina/node-mysql.git
     ```
 2. Navigate to the project directory:
     ```
-    cd projectname
+    cd node-mysql
     ```
 3. Install the dependencies:
     ```
